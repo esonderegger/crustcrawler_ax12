@@ -1,0 +1,4 @@
+<launch>
+    <node name="ax12_action_server" pkg="ax12_controller" type="ax12_action_server.py" respawn="false" output="screen">
+    </node>
+</launch>

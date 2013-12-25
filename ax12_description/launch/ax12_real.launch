@@ -1,0 +1,6 @@
+<launch>
+	<!-- Note: This is used in conjunction with the ax12_controller action server, which send joint_states -->
+	<param name="robot_description" textfile="$(find ax12_description)/urdf/ax12_arm_robot.urdf" />
+	<node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" />
+	<node name="rviz" pkg="rviz" type="rviz" args="-d $(find ax12_description)/launch/urdf.rviz" />
+</launch>

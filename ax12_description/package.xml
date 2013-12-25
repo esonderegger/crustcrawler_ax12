@@ -1,0 +1,15 @@
+<package>
+    <name>ax12_description</name>
+    <version>0.0.1</version>
+    <description>
+        3D Meshes and URDF description for the Crustcrawler AX-12 Arm.
+    </description>
+    <maintainer email="evan.sonderegger@gmail.com">Evan Sonderegger</maintainer>
+
+    <author>Evan Sonderegger</author>
+    <license>BSD</license>
+
+    <export>
+        <gazebo gazebo_media_path="${prefix}" />
+    </export>
+</package>

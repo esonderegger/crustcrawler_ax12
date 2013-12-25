@@ -1,0 +1,10 @@
+<launch>
+    <node name="ax12_action_server" pkg="ax12_controller" type="ax12_action_server_v2.py" respawn="false" output="screen">
+    </node>
+    <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" />
+
+<!--     <include file="$(find srt_moveit_config)/launch/move_group_2.launch">
+    </include> -->
+
+    <node name="rviz" pkg="rviz" type="rviz" args="-d $(find ax12_description)/launch/urdf.rviz" />
+</launch>

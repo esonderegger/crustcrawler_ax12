@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1471/trunk/arrg/crustcrawler_smart_arm/smart_arm_description/urdf
+END
+smart_arm.xacro
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1471/trunk/arrg/crustcrawler_smart_arm/smart_arm_description/urdf/smart_arm.xacro
+END
+smart_arm_robot.xacro
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1445/trunk/arrg/crustcrawler_smart_arm/smart_arm_description/urdf/smart_arm_robot.xacro
+END
+materials.urdf.xacro
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1471/trunk/arrg/crustcrawler_smart_arm/smart_arm_description/urdf/materials.urdf.xacro
+END

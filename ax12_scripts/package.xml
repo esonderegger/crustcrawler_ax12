@@ -1,0 +1,19 @@
+<package>
+    <name>ax12_scripts</name>
+    <version>0.0.1</version>
+    <description>
+        Bringup and demo scripts for the CrustCrawler AX-12 Arm
+    </description>
+    <maintainer email="evan.sonderegger@gmail.com">Evan Sonderegger</maintainer>
+
+    <author>Evan Sonderegger</author>
+    <license>BSD</license>
+
+    <export>
+        <gazebo gazebo_media_path="${prefix}" />
+    </export>
+    <build_depend>message_generation</build_depend>
+    <run_depend>message_runtime</run_depend>
+</package>
+
+

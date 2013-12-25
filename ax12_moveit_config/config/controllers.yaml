@@ -1,0 +1,21 @@
+controller_list:
+  - name: ax12_arm
+    action_ns: follow_joint_trajectory
+    type: FollowJointTrajectory
+    default: true
+    joints:
+      - shoulder_pan_joint
+      - shoulder_pitch_joint
+      - elbow_flex_joint
+      - wrist_roll_joint
+  - name: ax12_gripper
+    action_ns: gripper_command
+    type: GripperCommand
+    default: true
+    joints:
+      - gripper_joint
+      - gripper_finger_pincher_joint
+      - l_gripper_fwd_joint
+      - r_gripper_aft_joint
+      - r_gripper_aft_pincher_joint
+      - r_gripper_fwd_joint

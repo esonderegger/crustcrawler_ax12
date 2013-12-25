@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1445/trunk/arrg/crustcrawler_smart_arm/smart_arm_description/meshes/collada
+END
+arm_base.dae
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1445/trunk/arrg/crustcrawler_smart_arm/smart_arm_description/meshes/collada/arm_base.dae
+END
+arm_shoulder_pitch.dae
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1445/trunk/arrg/crustcrawler_smart_arm/smart_arm_description/meshes/collada/arm_shoulder_pitch.dae
+END
+arm_wrist_roll.dae
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1445/trunk/arrg/crustcrawler_smart_arm/smart_arm_description/meshes/collada/arm_wrist_roll.dae
+END
+arm_shoulder_pan.dae
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1445/trunk/arrg/crustcrawler_smart_arm/smart_arm_description/meshes/collada/arm_shoulder_pan.dae
+END
+arm_left_finger.dae
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1445/trunk/arrg/crustcrawler_smart_arm/smart_arm_description/meshes/collada/arm_left_finger.dae
+END
+arm_elbow_flex.dae
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1445/trunk/arrg/crustcrawler_smart_arm/smart_arm_description/meshes/collada/arm_elbow_flex.dae
+END
+arm_right_finger.dae
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1445/trunk/arrg/crustcrawler_smart_arm/smart_arm_description/meshes/collada/arm_right_finger.dae
+END

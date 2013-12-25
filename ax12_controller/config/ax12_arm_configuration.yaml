@@ -1,0 +1,22 @@
+joints:
+    - name: shoulder_pan_joint
+      id: [1]
+    - name: shoulder_pitch_joint
+      id: [2,3]
+    - name: elbow_flex_joint
+      id: [4,5]
+    - name: wrist_roll_joint
+      id: [6]
+    - name: gripper_joint
+      id: [7]
+      mimic_joints:
+        - name: r_gripper_aft_joint
+          mirror: True
+        - name: l_gripper_fwd_joint
+          mirror: False
+        - name: r_gripper_fwd_joint
+          mirror: True
+        - name: gripper_finger_pincher_joint
+          mirror: True
+        - name: r_gripper_aft_pincher_joint
+          mirror: True

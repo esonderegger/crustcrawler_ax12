@@ -1,0 +1,8 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ax12_description
+    relative_path: urdf/ax12_arm_robot.urdf
+  SRDF:
+    relative_path: config/ax12_arm.srdf
+  CONFIG:
+    generated_timestamp: 1387063258
